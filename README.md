@@ -1,10 +1,11 @@
 ## Coffee Break ☕
 
-Just another tech/programming enthusiast from Brazil. 😄
+Another tech/programming enthusiast from Brazil. 😄
 
 Pythonista 🐍
-
-There's not much to say :P
+I do Java too! ☕
 
 ## Repositories
-I'm currently focusing in my project, [GetFollowed](https://github.com/Shaunters/GetFollowed), that can make you earn easy followers on various social medias, by simply following people.
+[GetFollowed](https://github.com/Shaunters/GetFollowed) - Gain easy followers by using this script that automatically follows people;
+[ShortcutR](https://github.com/Shaunters/ShortcutR) - Create snippets to the script automatically replace it for you while using your PC;
+[PasswordGenerator](https://github.com/Shaunters/PasswordGenerator) - Simple password generator made in Java;
