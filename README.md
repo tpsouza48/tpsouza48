@@ -3,8 +3,9 @@
 <h1>Olá mundo!</h1>
 <p align="left"> 
   Meu nome é Thiago! 
-  <br>Atualmente estou no 2° período do curso de Análise e Desenvolvimento de Sistemas da Faculdade Santa Marcelina.</br>
-  <br>Também sou sócio de uma startup de tecnologia. (Site em breve!)</br>
+  <br>Atualmente estou no 3° período do curso de Análise e Desenvolvimento de Sistemas da Faculdade Santa Marcelina.</br>
+  <br>Também sou sócio de uma startup de tecnologia focada em segurança para motocicletas.</br>
+  <a href="https://ltgtechcompany.com/" alt="Site LTG TECH COMPANY">Clique aqui</a> para acessar o nosso site!
 </p>
 
 <br></br>
